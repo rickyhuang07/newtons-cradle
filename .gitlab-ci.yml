@@ -1,0 +1,8 @@
+A:
+  script: /testers/cs1/project04/A/test
+B:
+  script: /testers/cs1/project04/B/test
+C:
+  script: /testers/cs1/project04/C/test
+D:
+  script: /testers/cs1/project04/D/test

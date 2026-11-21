@@ -1,0 +1,7 @@
+mass,restitution_coeff,color,texture,objects,theta,omega
+53,0.8,gray,earth,(arrow box cone),-1,10
+2,0.2,black,flower,(curve cylinder elliposoid),2,7
+3,0.3,blue,metal,(helix label arrow),-2,4
+90,0.7,red,flower,(points pyramid cylinder),15,2
+68,1,magenta,metal,(box sphere cylinder),5,56
+22,0.9,orange,metal,(cylinder sphere ring),90,3

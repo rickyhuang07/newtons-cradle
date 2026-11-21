@@ -1,0 +1,3 @@
+{
+    "upload": ["visualize_cradle_run.py", "src/special_cradles.py", "src/swinging.py", "src/pds_helper.py"]
+}
